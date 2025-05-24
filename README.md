@@ -43,8 +43,8 @@ Here are some screenshots of the application in action:
    - git clone https://github.com/wafafatima66/tweety
    - cd your-repo
      
-2. **Install dependencies::**
-    -composer install
+2. **Install dependencies:**
+    - composer install
    
 4. **Copy .env file and generate application key:**
     - cp .env.example .env
