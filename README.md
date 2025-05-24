@@ -27,13 +27,13 @@ Here are some screenshots of the application in action:
    *The main feed showing tweets from followed users*
 
 2. **Profile Page**  
-   ![Profile Page](/public/images/screenshots/2.png)  
+   ![Profile Page](/public/images/2.png)  
    *A user's profile showing their tweets and follow stats*
 
 3. **Edit Profile**  
-   ![Edit Profile](/public/images/screenshots/3.png)  
+   ![Edit Profile](/public/images/3.png)  
    *The profile editing interface*
 
-4. **Explore Page**  
-   ![Explore Page](/public/images/screenshots/4.png)  
-   *Discover other users on the platform*
+4. **Login Page**  
+   ![Explore Page](/public/images/4.png)  
+   *Login/reset your password*
