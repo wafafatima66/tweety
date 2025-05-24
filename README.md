@@ -37,3 +37,21 @@ Here are some screenshots of the application in action:
 4. **Login Page**  
    ![Explore Page](/public/images/4.png)  
    *Login/reset your password*
+
+## Installation
+1. **Clone the repository:**
+   - git clone https://github.com/wafafatima66/tweety
+   - cd your-repo
+     
+2. **Install dependencies::**
+    -composer install
+   
+4. **Copy .env file and generate application key:**
+    - cp .env.example .env
+    - php artisan key:generate
+      
+5. **Set up your database in .env file and then run:**
+    - php artisan migrate --seed
+      
+6. **Start the development server:**
+   - php artisan serve
