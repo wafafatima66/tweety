@@ -40,7 +40,7 @@ Here are some screenshots of the application in action:
 
 ## Installation
 1. **Clone the repository:**
-   - git clone https://github.com/wafafatima66/tweety
+   - git clone https://github.com/wafafatima66/twitter-clone-laravel-tailwind
    - cd your-repo
      
 2. **Install dependencies:**
